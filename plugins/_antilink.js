@@ -1,3 +1,5 @@
+//Código creado por Mía: https://github.com/miaoficial02
+
 let handler = async (m, { conn, args, command, usedPrefix }) => {
   let chat = db.data.chats[m.chat] || (db.data.chats[m.chat] = {});
 
