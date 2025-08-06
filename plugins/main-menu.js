@@ -57,6 +57,8 @@ let handler = async (m, { conn, usedPrefix, __dirname, participants }) => {
 ╰━━━━━━━━━━━━━━━━━━━━━━╯
 
 ╭━━━〔 🤡 𝗗𝗜𝗩𝗘𝗥𝗦𝗜𝗢𝗡 〕━━━╮
+├ׁ̟̇• ${usedPrefix}pregunta
+├ׁ̟̇• ${usedPrefix}consejo
 ├ׁ̟̇• ${usedPrefix}consejoamor
 ├ׁ̟̇• ${usedPrefix}frase
 ├ׁ̟̇• ${usedPrefix}gay
