@@ -58,7 +58,12 @@ export async function before(m, { conn, isAdmin, isBotAdmin, participants }) {
       });
     }
 
+    await conn.groupParticipantsUpdate(m.chat, [sender], 'remove');
     await conn.sendMessage(m.chat, {
       text: `🚫 *AntiLink Detectado*\n\n@${sender.split("@")[0]} fue eliminado por compartir enlaces de WhatsApp no permitidos.`,
       mentions: [sender]
     });
+  } catch (e) {
+    console.error(e);
+  }
+}
