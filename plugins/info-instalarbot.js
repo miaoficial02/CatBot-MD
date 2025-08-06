@@ -1,6 +1,6 @@
 const textoInstalacion = `
 ┏━━━━━━━━━━━━━━━━━━━┓
-┃   🌟 *INSTALAR CATBOT* 🌟
+┃   🐈 *INSTALAR CATBOT* 🐈
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 📦 *Requisitos previos:*
@@ -26,11 +26,15 @@ const textoInstalacion = `
 5️⃣ Iniciar el bot:
 > npm start
 
-🔧 Si es la primera vez, escanea el QR con tu WhatsApp para conectar el bot.
+🔧 Si es la primera vez, utiliza el Código de 8 dígitos para conectar el bot.
 
 📌 *Soporte:* si algo falla, contacta a @Its.chinitaaa_ o revisa el README del repo.
 
 💡 Usa *#menu* para ver todos los comandos del bot una vez que esté en línea.
+
+⚠️  *Puedes agregar tu número como owner pero no elimines el número de los demás owners.* 
+
+💗 cuando ya este instalado avísale a la owner, ocupa el comando #owner o #creador y avisale.
 `;
 
 let handler = async (m) => {
