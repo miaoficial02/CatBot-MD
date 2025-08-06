@@ -1,7 +1,11 @@
 import fs from 'fs'
 import path from 'path'
+import { fileURLToPath } from 'url'
 
-const pluginsDir = __dirname  // como el archivo está dentro de plugins/
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
+const pluginsDir = __dirname
 
 const pluginFiles = fs.readdirSync(pluginsDir)
   .filter(file => file.endsWith('.js') && file !== path.basename(__filename))
