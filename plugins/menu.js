@@ -131,6 +131,8 @@ let handler = async (m, { conn, usedPrefix, __dirname, participants }) => {
 ╰━━━━━━━━━━━━━━━━━━━━━━╯
 
 ╭━━━〔 👑 𝗢𝗪𝗡𝗘𝗥 〕━━━╮
+├ׁ̟̇• ${usedPrefix}setbio
+├ׁ̟̇• ${usedPrefix}botname
 ├ׁ̟̇• ${usedPrefix}setpp <img>
 ├ׁ̟̇• ${usedPrefix}restart
 ├ׁ̟̇• ${usedPrefix}update
