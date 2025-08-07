@@ -57,21 +57,21 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'})
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true})
 
 // ᖇᗴᗩᑕIOᑎᗴՏ ᘜᒪOᗷᗩᒪ
-global.rwait = '✨️'
+global.rwait = '🐱'
 global.done = '✅'
 global.error = '✖️'
 global.msm = '⚠️'
 
-global.emoji0 = '૮₍ ˶•⤙•˶ ₎ა 🌸'
-global.emoji1 = '૮₍ ˶•⤙•˶ ₎ა 🌸'
-global.emoji2 = '૮₍ ˶•⤙•˶ ₎ა 🌸'
-global.emoji3 = '૮₍ ˶•⤙•˶ ₎ა 🌸'
-global.emoji4 = '૮₍ ˶•⤙•˶ ₎ა 🌸'
-global.emoji5 = '૮₍ ˶•⤙•˶ ₎ა 🌸'
+global.emoji0 = '૮₍ ˶•⤙•˶ ₎ა 🐈'
+global.emoji1 = '૮₍ ˶•⤙•˶ ₎ა 🐈'
+global.emoji2 = '૮₍ ˶•⤙•˶ ₎ა 🐈'
+global.emoji3 = '૮₍ ˶•⤙•˶ ₎ა 🐈'
+global.emoji4 = '૮₍ ˶•⤙•˶ ₎ა 🐈'
+global.emoji5 = '૮₍ ˶•⤙•˶ ₎ა 🐈'
 global.emojis = [emoji0, emoji2, emoji3, emoji4, emoji5].getRandom()
 global.emoji = [emoji0, emoji2, emoji3, emoji4, emoji5].getRandom()
 
-global.wait = '🌸 𝗧𝗘 𝗣𝗜𝗗𝗢 𝗤𝗨𝗘 𝗠𝗘 𝗘𝗦𝗣𝗘𝗥𝗘𝗦 ʕ•ᴥ•ʔ'
+global.wait = '🐈 𝗧𝗘 𝗣𝗜𝗗𝗢 𝗤𝗨𝗘 𝗠𝗘 𝗘𝗦𝗣𝗘𝗥𝗘𝗦 ʕ•ᴥ•ʔ'
 global.waitt = global.wait
 global.waittt = global.wait
 global.waitttt = global.wait
