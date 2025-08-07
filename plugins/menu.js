@@ -25,8 +25,8 @@ let handler = async (m, { conn, usedPrefix, __dirname, participants }) => {
 
     const vids = [
       'https://files.catbox.moe/tc3zg4.mp4',
-      '',
-      ''
+      'https://files.catbox.moe/tc3zg4.mp4',
+      'https://files.catbox.moe/tc3zg4.mp4'
     ]
     let videoUrl = vids[Math.floor(Math.random() * vids.length)]
 
