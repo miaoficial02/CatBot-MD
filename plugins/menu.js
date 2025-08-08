@@ -54,6 +54,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, participants }) => {
 ├ׁ̟̇• ${usedPrefix}ping
 ├ׁ̟̇• ${usedPrefix}grupos
 ├ׁ̟̇• ${usedPrefix}owner
+├ׁ̟̇• ${usedPrefix}instalarbot
 ╰━━━━━━━━━━━━━━━━━━━━━━╯
 
 ╭━━━〔 🤡 𝗗𝗜𝗩𝗘𝗥𝗦𝗜𝗢𝗡 〕━━━╮
