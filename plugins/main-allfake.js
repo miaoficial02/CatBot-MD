@@ -119,11 +119,11 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 
 
 global.icono = [ 
-'https://files.catbox.moe/cdx5px.jpg',
-'https://files.catbox.moe/ja853f.jpg',
-'https://files.catbox.moe/fcnuso.jpg',
-'https://files.catbox.moe/8461tw.jpg',
-'https://files.catbox.moe/8461tw.jpg'
+'https://files.catbox.moe/cmza9t.jpg',
+'https://files.catbox.moe/cmza9t.jpg',
+'https://files.catbox.moe/cmza9t.jpg',
+'https://files.catbox.moe/cmza9t.jpg',
+'https://files.catbox.moe/cmza9t.jpg'
 ].getRandom()
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { /*newsletterJid: channelRD.id,*/ serverMessageId: 100, /*newsletterName: channelRD.name,*/ }, externalAdReply: { showAdAttribution: true, title: textbot, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
