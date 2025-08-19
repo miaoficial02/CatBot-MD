@@ -13,7 +13,7 @@
 
 *   *Desarrollador*: Mia 
 *   *Plataforma*: WhatsApp
-*   *Inspiración*: ...
+*   *Inspiración*: Gata-bot
 
 --- 
 
