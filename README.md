@@ -84,7 +84,6 @@ npm update
 ```bash
 npm start
 ```
----
 
 ---
 ### **`➤ Instalación por Linux`**
@@ -126,7 +125,6 @@ npm start
 
 </details>
 
----
 
 ---
 ### **`𝑷𝑹𝑶𝑷𝑰𝑬𝑻𝑨𝑹𝑰𝑶`**
