@@ -86,6 +86,7 @@ npm start
 ```
 ---
 
+---
 ### **`➤ Instalación por Linux`**
 
 <details>
@@ -127,6 +128,7 @@ npm start
 
 ---
 
+---
 ### **`𝑷𝑹𝑶𝑷𝑰𝑬𝑻𝑨𝑹𝑰𝑶`**
 <a
 href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
