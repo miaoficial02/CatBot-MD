@@ -85,6 +85,41 @@ npm update
 npm start
 ```
 
+### **`➤ Instalación por Linux`**
+
+<details>
+ <summary><b> ✦ Click para ver los Comandos </b></summary>
+
+### **✦ Instalación por Linux**
+> Nota: Copie y pegue los comandos en termux uno por uno.
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+```bash
+sudo apt install -y git nodejs npm ffmpeg imagemagick yarn
+```
+
+```bash
+git clone https://github.com/miaoficial02/CatBot-MD && cd CatBot-MD
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm update
+```
+
+```bash
+npm start
+```
 > Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
 
 </details>
